@@ -1,9 +1,6 @@
 # **Soy Franco Galbiati Desarrollador Web / Movil**  
   
 
-
-
-### Glad to see you here!  
 Apasionado desarrollador con experiencia en la creación de aplicaciones móviles y web utilizando tecnologías modernas como Flutter, Node.js, Express, Sequelize y PostgreSQL. Con un enfoque en la entrega de soluciones de alta calidad y rendimiento, participando en proyectos desde la concepción hasta la implementación, colaborando estrechamente con equipos multidisciplinarios para alcanzar los objetivos del negocio.
   
   
@@ -19,25 +16,25 @@ Apasionado desarrollador con experiencia en la creación de aplicaciones móvile
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+Proyectos 
+Proyecto Taxi Cap Silver:
+En este proyecto se realizó un sistema para la administración de una empresa de Taxis, en la cual se implementó Flutter para crear el front-end. Implementando autenticación con roles usando Auth0, gestión de estados usando Riverpod, api de Google Maps para mostrar el mapa buscar e indicar ubicaciones entre otros. En el back-end se utilizó Express.js para crear la api de gestión usando sequelize con postgreSql como base de datos. 
 
 
+Proyecto Deep Pharma:
+En este proyecto se realizó un sistema para gestión de farmacias. Para este se optó  por utilizar famework Next.js para el front-end, en este proyecto no solo aprendí a crear código, ya que al estar desde su inicio aprendí a tomar requerimientos del cliente, pensar y ejecutar soluciones a sus problemas y a modelar bases de datos entre otros.
+Full Stack Developer -  Experiencia académica. Henry Bootcamp 
+Proyecto Grupal
+En este proyecto elegimos con el grupo crear un ecommerce de productos informáticos.  Mis principales aportes a esta página son el login con Google , la implementación de MercadoPago Api tanto del front como del back y las secciones de carrito y admin.     https://lilianagamesstore.onrender.com/
+En esta experiencia pude aprender a trabajar en equipo en un proyecto IT.
+Proyecto Next.js + MongoDB
+En este proyecto aprendí a crear una SPA con el framework Next.js, utilizando como Base de Datos MongoDB y utilizando tailwind css para aplicar estilos. Next es un framework que permite desarrollar dentro del mismo proyecto tanto el front como el back. Lo que permite un deploy en vercel mucho más dinámico.  
+https://mongo-next-phi.vercel.app/
+Proyecto Integrador
+En resumen, mi rol en el diseño y desarrollo de la aplicación del Spa de perros incluyó la creación  de la base de datos utilizando PostgreSQL, el desarrollo del backend con Express para  interactuar con la API externa y la base de datos, y el desarrollo del frontend utilizando React y  Redux para construir la interfaz de usuario y administrar el estado global. 
 
-### Proyecto FInal Grupal en preparacion  
-- https://lilianagamesstore.onrender.com/
-  
-
-
-
-### Proyecto Induvidual  
-- https://github.com/Galbfran/Proyecto_Integreador_Dogs  
-  
-
-
-
-### Proyecto durante la cursada  
-- https://github.com/Galbfran/proyectoRickAndMorty  
+Base de datos: PostgreSQL y Sequelize. 
+https://github.com/Galbfran/Proyecto_Integreador_Dogs 
   
 
   
