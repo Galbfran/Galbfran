@@ -1,16 +1,10 @@
-# **Hola Soy franco**  
+# **Soy Franco Galbiati Desarrollador Web / Movil**  
   
 
 
 
 ### Glad to see you here!  
-Desarrollador Full Stack con formación en Henry, donde estoy estudiando para convertirme en un 
-experto en desarrollo web.
-Mi formación en Henry me ha permitido adquirir competencias valiosas, como trabajar en equipo 
-de manera colaborativa y analizar datos de manera eficiente. Además, estoy especializado en el 
-desarrollo de aplicaciones web, tanto en el Front-end como en el Back-end. Mis conocimientos 
-incluyen metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks CSS, entre 
-otros.
+Apasionado desarrollador con experiencia en la creación de aplicaciones móviles y web utilizando tecnologías modernas como Flutter, Node.js, Express, Sequelize y PostgreSQL. Con un enfoque en la entrega de soluciones de alta calidad y rendimiento, participando en proyectos desde la concepción hasta la implementación, colaborando estrechamente con equipos multidisciplinarios para alcanzar los objetivos del negocio.
   
   
 
